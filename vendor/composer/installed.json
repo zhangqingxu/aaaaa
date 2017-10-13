@@ -1,0 +1,37 @@
+[
+    {
+        "name": "lx159/tencent-test",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/lx159/lx-tencent.git",
+            "reference": "9bebed6826be69e0266cd7fe9601d4aee95cfbeb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/lx159/lx-tencent/9bebed6826be69e0266cd7fe9601d4aee95cfbeb.zip",
+            "reference": "9bebed6826be69e0266cd7fe9601d4aee95cfbeb",
+            "shasum": ""
+        },
+        "time": "2017-10-12T07:57:26+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Tencent\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "1.0"
+        ],
+        "authors": [
+            {
+                "name": "luo xun",
+                "email": "luoxun159@126.com"
+            }
+        ],
+        "description": "广点通接口封装"
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "name": "luo-xun/tencent-test",
+    "description": "广点通接口封装",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "luo xun",
+            "email": "luoxun159@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tencent\\": "src/"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
